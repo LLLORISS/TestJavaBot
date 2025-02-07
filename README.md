@@ -1,1 +1,1 @@
-# TestJavaBot
+# nm.rc.TestJavaBot
